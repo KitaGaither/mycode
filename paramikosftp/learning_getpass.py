@@ -9,10 +9,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-import pandas as pd
-
-def main():
-    # create a dataframe ciscocsv
-    ciscocsv = pd.read_csv("ciscodata.csv")
-    # create a dataframe ciscojson
-
